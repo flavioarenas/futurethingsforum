@@ -1,5 +1,5 @@
 h1 {
-    font-family: verdana;
+    font-family: helvetica;
     color: #1d1d1f;
     justify-content: center;
     align-items: center;
@@ -7,7 +7,7 @@ h1 {
   }
 
   h4 {
-    font-family: verdana;
+    font-family: helvetica;
     color: #1d1d1f;
     justify-content: center;
     align-items: center;
@@ -19,7 +19,7 @@ h1 {
   }
 
   button {
-    font-family: verdana;
+    font-family: helvetica;
     font-size: 16px;
     color: #1d1d1f;
     background-color: white;
@@ -33,7 +33,6 @@ h1 {
   button:hover {
     background-color: #1d1d1f;
     color: white;
-    font-family: verdana;
   }
 
   a {
