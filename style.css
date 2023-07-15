@@ -1,3 +1,44 @@
-h1 h4 {
-  font-family: verdana;
-}
+h1 {
+    font-family: verdana;
+    color: #1d1d1f;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+  h4 {
+    font-family: verdana;
+    color: #1d1d1f;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+  body {
+    background-color: #F1F0F0;
+  }
+
+  button {
+    font-family: verdana;
+    font-size: 16px;
+    color: #1d1d1f;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  button:hover {
+    background-color: #1d1d1f;
+    color: white;
+    font-family: verdana;
+  }
+
+  a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+  }
